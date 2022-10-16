@@ -225,7 +225,7 @@
     - `operator!`
   - Допълнително могат да се реализират и `operator<`, 
     `operator==`, `operator!=` за указатели
-    ```c++
+    ``` cpp
     for (T it=array.begin(); // begin() - first element
          it !=array.end()    // end() - invalid element
          /*it.hasNext()*/;
