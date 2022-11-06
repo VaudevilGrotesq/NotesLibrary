@@ -10,6 +10,10 @@
     - [Масив](#масив)
     - [Реализация](#реализация)
   - [Итератор върху структура _Iterator Design Pattern_](#итератор-върху-структура-iterator-design-pattern)
+  - [Свързан списък _Linked List_](#свързан-списък-linked-list)
+  - [Линеен едносвързан списък _Linked List_](#линеен-едносвързан-списък-linked-list)
+  - [Цикличен едносвързан списък _Linked List_](#цикличен-едносвързан-списък-linked-list)
+  - [Линеен двусвързан списък _Doubly-linked List_](#линеен-двусвързан-списък-doubly-linked-list)
 - [Notes](#notes)
 
 ## Изчислителна сложност _Computational Complexity_
